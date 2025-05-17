@@ -25,5 +25,5 @@ A simple web application built with HTML, CSS, and JavaScript that fetches quote
 
 ## 📸 Screenshot
 
-![Screenshot to all quotes](assets/screenshot_1.png)  
-![Screenshot to filtered quotes](assets/screenshot_2.png)  
+![Screenshot to all quotes](assets/Screenshot_1.png)  
+![Screenshot to filtered quotes](assets/Screenshot_2.png)  
